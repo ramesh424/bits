@@ -2,3 +2,4 @@
 https://www.youtube.com/watch?v=wx6t8phkddM
 https://docs.google.com/spreadsheets/d/1HZNsNnBAn_FYBJh0RqrMvut4wC4b9SQSBRtxXNOUKSA/edit#gid=0
 https://github.com/miguelbalboa/rfid
+https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library
